@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="padding">16dp</dimen>
+    <dimen name="movie_icon_width">100dp</dimen>
+    <dimen name="movie_icon_height">150dp</dimen>
+</resources>
